@@ -1,15 +1,15 @@
-title: An Exhibition of A Hunger Artist #Your awesome title
-email: annabellee123456@outlook.com
+title: Seize My Day #Your awesome title
+email: @seizemyday
 description: > # this means to ignore newlines until "baseurl"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 baseurl:  # the subpath of the site
-url: https://github.com/EinHungerkuenstler/EinHungerkuenstler.github.io # the base hostname & protocol for your site
+url: https://seizemyday.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
-timezone: GMT+1
+timezone: GMT+9
 
 favicon: /assets/img/favicon.ico
 
@@ -19,10 +19,10 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: WHY
-  pic: /assets/img/profile.jpg
-  picAlt: "An Exhibition of A Hunger Artist"
-  job: Muss es sein? Es muss sein!
+  name: SeizeMyDay
+  pic: /assets/img/milkcs.jpg
+  picAlt: "데이터사이언티스트를 꿈꾸는 학생입니다."
+  job: One person with a belief is equal to a force of 99 who have only interests.
   # aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
